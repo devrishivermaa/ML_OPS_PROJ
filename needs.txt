@@ -1,0 +1,4 @@
+devverma5c_db_user
+cEpdQkBOIbCgzsDm
+
+mongodb+srv://devverma5c_db_user:<db_password>@cluster0.e9vq6ss.mongodb.net/?appName=Cluster0

@@ -1,10 +1,2 @@
 # ML_OPS_PROJ
 
-AKIA2EIZP3K5GILBS5HL
-
-Fiw6qXNHa6bv5q1wCpPv/JBPh9sh9ZULqSmKv4dP
-
-$env:AWS_ACCESS_KEY_ID="AKIA2EIZP3K5GILBS5H"
-$env:AWS_SECRET_ACCESS_KEY="Fiw6qXNHa6bv5q1wCpPv/JBPh9sh9ZULqSmKv4dP"
-
-ecr: 696375040698.dkr.ecr.us-east-1.amazonaws.com/vehicleproj
